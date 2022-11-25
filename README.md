@@ -1,5 +1,5 @@
 # House-Price-Prediction-Analysis
-The goal is to understand the relationship between house features and how these variables affect the house price.
+The goal is to understand the relationship between house features and how these variables affect the house price.Linear Regression,Random Forest and many moreare used as a Machine Learning Methodologies. The Dataset used in this Procedure consists of the attributes that defines the price of a house. The dataset contains about 9 Dimensions and the dataset his features that is directly related to the price of the house.
 
 ## Abstract
 
